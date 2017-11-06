@@ -187,5 +187,5 @@ NAND gates have two inputs (A and B) and an output (___). When A and B are both 
 | 1 | 0 | 1 |
 | 0 | 1 | 1 |
 | 1 | 1 | 1 | 
-- Using any graphics package on your computer, try to draw the arrangement of transistors that would produce a table like this.
+- Using Circuit Wizard (using transistors, power, a LED and switches), or any graphics package on your computer, try to draw the arrangement of transistors that would produce a table like this.
 
