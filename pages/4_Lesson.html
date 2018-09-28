@@ -368,39 +368,12 @@ def XOR(A,B):
 </li>
 <li>OR(D,1)
 </li>
+<li>The half-adder has only two gates: <b>XOR</b> and <b>AND</b>
+</li>
 <li>Here is the full script for the Half-adder
 </li>
 </ul>
-<div class="org-src-container">
-
-<pre class="src src-python">inputA = 0
-inputB = 0
-
-def AND(A,B):
-    return A and B
-
-def OR(A,B):
-    return A or B
-
-def NOT(A):
-    return 1 - A
-
-def NOR(A,B):
-    return 1-(A or B)
-
-def NAND(A,B):
-    return 1 - (A and B)
-
-def XOR(A,B):
-    return A ^ B
-
-output = XOR(inputA,inputB)
-carry = AND(inputA,inputB)
-
-print('result =',output)
-print('carry =',carry)
-</pre>
-</div>
+<iframe src="https://trinket.io/embed/python/c8fad51cbc?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 <div id="outline-container-sec-6-2" class="outline-3 try">
@@ -422,7 +395,11 @@ print('carry =',carry)
 <h3 id="sec-7-1">Badge It - Gold</h3>
 <div class="outline-text-3" id="text-7-1">
 <ul class="org-ul">
+<li>To be awarded your Gold badge, you need to implement the Full Adder in code. 
+</li>
 <li><b>Remember</b> - you can pass the output from one function to another function.
+</li>
+<li>Look at the circuit, and use it to help you pass the outputs of one function to another. 
 </li>
 </ul>
 <div class="org-src-container">
@@ -432,14 +409,20 @@ E = NOR(inputA,inputB)
 outputF = XOR(D,E)
 </pre>
 </div>
+
+<div class="figure">
+<p><img src="./img/fulladder.png" alt="fulladder.png" />
+</p>
+</div>
 <ul class="org-ul">
-<li>If you don't understand this then you'd best ask for some help from a peer or your teacher.
+<li>The following is a partially finished/implemented full adder in Python.
 </li>
-<li>To be awarded your Gold badge, you need to implement the Full Adder in code. Look at the circuit, and use it to help you pass the outputs of one function to another.
+<li>Try to finish the full adder in Python and test it by using the image above to help you.
 </li>
-<li>Demonstrate your Python Full Adder to your teacher to get your badge.
+<li>Upload your finished code to www.bournetolearn.com
 </li>
 </ul>
+<iframe style="min-width:800px;" src="https://trinket.io/embed/python/7920a1f37d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -468,7 +451,7 @@ outputF = XOR(D,E)
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="validation"></p>
 </div>
 </body>
 </html>

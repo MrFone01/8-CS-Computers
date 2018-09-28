@@ -296,35 +296,11 @@
 - =D = AND(1,0)= for instance.
 - We can then pass that variable into another function.
 - OR(D,1)
+- The half-adder has only two gates: *XOR* and *AND*
 - Here is the full script for the Half-adder
-#+BEGIN_SRC python
-  inputA = 0
-  inputB = 0
-
-  def AND(A,B):
-      return A and B
-
-  def OR(A,B):
-      return A or B
-
-  def NOT(A):
-      return 1 - A
-
-  def NOR(A,B):
-      return 1-(A or B)
-
-  def NAND(A,B):
-      return 1 - (A and B)
-
-  def XOR(A,B):
-      return A ^ B
-
-  output = XOR(inputA,inputB)
-  carry = AND(inputA,inputB)
-
-  print('result =',output)
-  print('carry =',carry)
-#+END_SRC
+#+BEGIN_HTML
+<iframe src="https://trinket.io/embed/python/c8fad51cbc?start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+#+END_HTML
 ** Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
@@ -339,15 +315,21 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- To be awarded your Gold badge, you need to implement the Full Adder in code. 
 - *Remember* - you can pass the output from one function to another function.
+- Look at the circuit, and use it to help you pass the outputs of one function to another. 
 #+BEGIN_SRC python
 D = AND(inputA,inputB)
 E = NOR(inputA,inputB)
 outputF = XOR(D,E)
 #+END_SRC
-- If you don't understand this then you'd best ask for some help from a peer or your teacher.
-- To be awarded your Gold badge, you need to implement the Full Adder in code. Look at the circuit, and use it to help you pass the outputs of one function to another.
-- Demonstrate your Python Full Adder to your teacher to get your badge.
+[[./img/fulladder.png]]
+- The following is a partially finished/implemented full adder in Python.
+- Try to finish the full adder in Python and test it by using the image above to help you.
+- Upload your finished code to www.bournetolearn.com
+#+BEGIN_HTML
+<iframe style="min-width:800px;" src="https://trinket.io/embed/python/7920a1f37d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+#+END_HTML
 * Assessment
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
