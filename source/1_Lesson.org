@@ -89,11 +89,32 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
+* Overview of this Unit.
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+This unit is designed for you to work towards the following statements:
+
+*Data & Data Representation*
+- Knows that digital computers use binary to represent all data. 
+- Understands how bit patterns represent numbers and images. 
+- Knows that computers transfer data in binary.
+- Understands the relationship between binary and file size (uncompressed). 
+
+*Hardware and processing*
+- Recognises and understands the function of the main internal parts of basic computer architecture.
+- Computers collect data from various input devices, including sensors and software.
+- Understands the concepts behind the fetch-execute cycle.
+- Computers have no intelligence and that computers can do nothing unless a program is executed.
+- Recognises that all software executed on digital devices is programmed.
+- Understands the difference between hardware and application software, and their roles within a computer System
+
+Let's work on the first statement for each of these strands, let's look at binary.
 * Binary
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-To understand a little about how computers work, you'll need to know about binary.
+
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
