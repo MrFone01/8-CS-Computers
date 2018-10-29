@@ -98,6 +98,16 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
+*Learning Objectives*- by the end of the lesson you...
+- *MUST* Be able to complete the truth table for a NOT gate.
+- *MUST* Be able to describe the function of a NOT gate as an inverter.
+- *SHOULD* Know that computer circuits are built from Transistors.
+- *SHOULD* Understand the term Boolean Logic (such as AND, OR and NOT).
+- *SHOULD* Be able to complete a truth table for a NOR,OR and XOR gate.
+- *COULD* Evaluate that the output from a gate depends on the pattern of transistors in its circuitry.
+- *COULD* Explain how a D Latch works in a circuit with two possible stable states.
+
+*Let's look at other gates*
 - NAND gates are really useful, but it would be annoying to have to draw the transistors every time.
 - Instead we use a symbol like the one shown below. You can click the buttons and compare it to the transistor version below it, to see that they are identical in function.
 #+BEGIN_HTML
@@ -135,6 +145,7 @@
 :END:
 - Have a look at the below. This is the arrangement for a NOT gate, sometimes called an inverter.
 - Construct a Truth table for the arrangement, showing input A output Q.
+- Describe why the NOT gate is often called an Inverter?
 http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NOT_from_NAND.svg/240px-NOT_from_NAND.svg.png
 | A | Q |
 |---+---|
