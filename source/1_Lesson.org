@@ -93,6 +93,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+Take a moment to look at the progress ladder. Browse at the Hardware & Processing strand and the blue section of the Data & Data Representation strand.
 This unit is designed for you to work towards the following statements:
 
 *Data & Data Representation*
@@ -101,7 +102,7 @@ This unit is designed for you to work towards the following statements:
 - Knows that computers transfer data in binary.
 - Understands the relationship between binary and file size (uncompressed). 
 
-*Hardware and processing*
+*Hardware and Processing*
 - Recognises and understands the function of the main internal parts of basic computer architecture.
 - Computers collect data from various input devices, including sensors and software.
 - Understands the concepts behind the fetch-execute cycle.
@@ -114,6 +115,13 @@ Let's work on the first statement for each of these strands, let's look at binar
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+*Learning Objectives* - by the end of the lesson you...
+- *MUST* Know that there are different number systems, decimal, binary, amongst others.
+- *MUST* Understand that data must be converted to digital format to be processed by a computer.
+- *SHOULD* Know that digital data is represented by two discrete values (on/off, yes/no, 1/0)
+- *SHOULD* Be able to convert the numbers 0 to 7 from decimal to binary
+- *COULD* Be able to convert a wide range of numbers from decimal to binary and vice versa.
+- *COULD* Be able to perform simple binary addition.
 
 ** Learn It
 :PROPERTIES:
