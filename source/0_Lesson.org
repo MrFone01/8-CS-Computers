@@ -94,7 +94,10 @@
 :HTML_CONTAINER_CLASS: activity
 :END:
 
-This unit is designed for you to work towards the following strands of your progress ladder:
+** This unit is designed for you to work towards the following strands of your progress ladder:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END:
 
 *Data & Data Representation*
  - Knows that digital computers use binary to represent all data.

@@ -8,23 +8,20 @@
 /*
 @scheme-color: #D12229;
 @scheme-color-secondary: #F7E4DC;
-*//*!
+*/
+/*!
  * "Fork me on GitHub" CSS ribbon v0.1.1 | MIT License
  * https://github.com/simonwhitaker/github-fork-ribbon-css
 */
 /* Left will inherit from right (so we don't need to duplicate code) */
 .github-fork-ribbon {
   /* The right and left classes determine the side we attach our banner to */
-
   position: absolute;
   /* Add a bit of padding to give some substance outside the "stitching" */
-
   padding: 2px 0;
   /* Set the base colour */
-
   background-color: #741371;
   /* Set a gradient: transparent black at the top to almost-transparent black at the bottom */
-
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.15)));
   background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
   background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
@@ -32,12 +29,10 @@
   background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
   /* Add a drop shadow */
-
   -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
   /* Set the font */
-
   font: 700 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
   z-index: 9999;
   pointer-events: auto;
@@ -45,22 +40,18 @@
 .github-fork-ribbon a,
 .github-fork-ribbon a:hover {
   /* Set the text properties */
-
   color: #fff;
   text-decoration: none;
   text-shadow: 0 -1px rgba(0, 0, 0, 0.5);
   text-align: center;
   /* Set the geometry. If you fiddle with these you'll also need
      to tweak the top and right values in .github-fork-ribbon. */
-
   width: 200px;
   line-height: 20px;
   /* Set the layout properties */
-
   display: inline-block;
   padding: 2px 0;
   /* Add "stitching" effect */
-
   border-width: 1px 0;
   border-style: dotted;
   border-color: #fff;
@@ -153,23 +144,19 @@ body {
 }
 p code {
   border-radius: 4px 4px 4px 4px;
-  background: #e5dce9;
+  background: #E5DCE9;
   padding: 2px 5px;
   -webkit-hyphens: none;
   -moz-hyphens: none;
   hyphens: none;
   white-space: pre-wrap;
   /* css-3 */
-
   white-space: -moz-pre-wrap !important;
   /* Mozilla, since 1999 */
-
   white-space: -pre-wrap;
   /* Opera 4-6 */
-
   white-space: -o-pre-wrap;
   /* Opera 7 */
-
 }
 pre {
   font-size: 16px;
@@ -177,7 +164,7 @@ pre {
   font-weight: 400;
   line-height: 1.5;
   clear: both;
-  background: #e5dce9;
+  background: #E5DCE9;
   padding: 20px;
   -webkit-hyphens: none;
   -moz-hyphens: none;
@@ -202,7 +189,7 @@ pre {
   color: #808080;
 }
 .link-heading a:link {
-  color: #ffffff;
+  color: #FFFFFF;
 }
 h1 {
   font-size: 50px;
@@ -238,6 +225,9 @@ object {
 /* CSS for sub activities*/
 .learn h3 {
   background-image: url(icons/Learn.svg);
+}
+.objectives h3 {
+  background-image: url(icons/Objectives.png);
 }
 .research h3 {
   background-image: url(icons/Research.png);
@@ -284,7 +274,6 @@ h3 {
   padding-left: 50px;
   font-size: 20px;
   /*float: left;*/
-
   width: 100%;
   border-top: 3px dotted #741371;
 }
@@ -307,7 +296,6 @@ h3 {
   list-style-type: none;
   list-style-type: decimal !ie;
   /*IE 7- hack*/
-
   counter-reset: li-counter;
 }
 .org-ol > li {
@@ -382,7 +370,7 @@ table {
   text-align: center;
 }
 table th {
-  background: #e5dce9;
+  background: #E5DCE9;
   border: 1px solid #741371;
   color: #741371;
 }
@@ -422,5 +410,5 @@ math {
   text-decoration: none;
 }
 #stickyribbon li a:hover {
-  color: #e5dce9;
+  color: #E5DCE9;
 }
