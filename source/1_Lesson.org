@@ -89,39 +89,22 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-* Overview of this Unit.
+* Learning Objectives
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: activity
-:END:
-Take a moment to look at the progress ladder. Browse at the Hardware & Processing strand and the blue section of the Data & Data Representation strand.
-This unit is designed for you to work towards the following statements:
-
-*Data & Data Representation*
-- Knows that digital computers use binary to represent all data. 
-- Understands how bit patterns represent numbers and images. 
-- Knows that computers transfer data in binary.
-- Understands the relationship between binary and file size (uncompressed). 
-
-*Hardware and Processing*
-- Recognises and understands the function of the main internal parts of basic computer architecture.
-- Computers collect data from various input devices, including sensors and software.
-- Understands the concepts behind the fetch-execute cycle.
-- Computers have no intelligence and that computers can do nothing unless a program is executed.
-- Recognises that all software executed on digital devices is programmed.
-- Understands the difference between hardware and application software, and their roles within a computer System
-
-Let's work on the first statement for each of these strands, let's look at binary.
-* Binary
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: activity
-:END:
-*Learning Objectives* - by the end of the lesson you...
-- *MUST* Know that there are different number systems, decimal, binary, amongst others.
+:HTML_CONTAINER_CLASS: objectives
+:END:      
+By the end of the lesson...
+- *All should* know that there are different number systems, decimal, binary, amongst others.
 - *MUST* Understand that data must be converted to digital format to be processed by a computer.
 - *SHOULD* Know that digital data is represented by two discrete values (on/off, yes/no, 1/0)
 - *SHOULD* Be able to convert the numbers 0 to 7 from decimal to binary
 - *COULD* Be able to convert a wide range of numbers from decimal to binary and vice versa.
 - *COULD* Be able to perform simple binary addition.
+
+* Binary
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
 
 ** Learn It
 :PROPERTIES:
