@@ -237,7 +237,7 @@ It is therefore very probable that the Indo-European, Semitic and Mongolian word
 | 1  | 0 |0|1|0  |1 |0 |1 | Ans here|	
 
 *Six*
-|0|	1|1|1|1|0|0|1 Ans here|	
+|0|	1|1|1|1|0|0|1| Ans here|	
 
 
 ** Learn It
@@ -339,7 +339,7 @@ It is therefore very probable that the Indo-European, Semitic and Mongolian word
 - =183=
 *Eight*
 - =200=
-
+  
 * Adding in Binary
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
