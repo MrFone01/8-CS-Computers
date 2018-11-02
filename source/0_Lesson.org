@@ -104,11 +104,12 @@
  - Performs conversion between decimal integers to binary and vice versa.
  - Performs simple binary addition. 
 
-*Hardware and Processing*
+*Hardware & Processing*
 - Recognises and understands the function of the main internal parts of basic computer architecture.
 - Understands the concepts behind the fetch-execute cycle.
 - Understands how logic gates work and their applications in computers.
 - Understands computers have different storage mediums.
 
-*To reinforce your learning and understanding, you are going to apply Programming and Development skills to implement some logic gates*
+*Programming & Development*
+ - Develop skills to implement logic gates and simple adders using Python programming language.
  
