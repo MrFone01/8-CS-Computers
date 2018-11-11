@@ -91,6 +91,18 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
+* Learning Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END:      
+
+By the end of the lesson ...
+- *All Should* Understand the role of a switch as a human interface with an electrical circuit.
+- *All Should* Understand that the behaviour of elecrical circuits is reliable, predictable and logical
+- *All Should* Be able to define how a transistor can act as a switch.
+- *Most Should* Be able to complete a truth table for an NAND gate and describe it's operation.
+- *Most Should* Be able to complete the truth tables for AND, OR and NOT.
+ 
 * Transistors
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -100,14 +112,7 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 
-*Learning Objectives*- by the end of the lesson you...
-- *MUST* Understand the role of a switch as a human interface with an electrical circuit.
-- *MUST* Understand that the behaviour of elecrical circuits is reliable, predictable and logical
-- *MUST* Be able to define how a transistor can act as a switch.
-- *SHOULD* Be able to complete a truth table for an NAND gate and describe it's operation.
-- *COULD* Be able to complete the truth tables for AND, OR and NOT.
-
-*The Big Question* (Deepening Thinking)
+*The Big Question*
 - What is man's greatest invention... Fire? The wheel? The internet? Sliced bread?
 #+BEGIN_HTML
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OwS9aTE2Go4" frameborder="0" allowfullscreen></iframe>
