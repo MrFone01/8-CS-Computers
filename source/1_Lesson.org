@@ -21,7 +21,7 @@
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
       <li><a href="6_Lesson.html">Week6</a></li>
-      <li><a href="assessment.html">Assessment</a></li>
+            <li><a href="assessment.html">Assessment</a></li>
 
     </ul>
   </div>
@@ -94,11 +94,12 @@
 :HTML_CONTAINER_CLASS: objectives
 :END:      
 By the end of the lesson...
-- *All Should* know that there are different number systems, decimal, binary, amongst others.
-- *Most Should* know that digital data is represented by two discrete values (on/off, yes/no, 1/0)
-- *Most Should* be able to convert the numbers 0 to 7 from decimal to binary
-- *Some Could* be able to convert a wide range of numbers from decimal to binary and vice versa.
-- *Some Could* be able to perform simple binary addition.
+- *All should* know that there are different number systems, decimal, binary, amongst others.
+- *MUST* Understand that data must be converted to digital format to be processed by a computer.
+- *SHOULD* Know that digital data is represented by two discrete values (on/off, yes/no, 1/0)
+- *SHOULD* Be able to convert the numbers 0 to 7 from decimal to binary
+- *COULD* Be able to convert a wide range of numbers from decimal to binary and vice versa.
+- *COULD* Be able to perform simple binary addition.
 
 * Binary
 :PROPERTIES:
