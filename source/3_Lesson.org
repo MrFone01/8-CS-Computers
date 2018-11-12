@@ -23,7 +23,7 @@
       <li><a href="6_Lesson.html">Week6</a></li>
 
       <li><a href="assessment.html">Assessment</a></li>
- 
+
     </ul>
   </div>
 #+END_HTML
@@ -90,19 +90,6 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
-* Learning Objectives
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: objectives
-:END: 
-By the end of the lesson...
-- *All Should* Be able to complete the truth table for a NOT gate.
-- *All Should* Be able to describe the function of a NOT gate as an inverter.
-- *Most Should* Know that computer circuits are built from Transistors.
-- *Most Should* Understand the term Boolean Logic (such as AND, OR and NOT).
-- *Most Should* Be able to complete a truth table for a NOR,OR and XOR gate.
-- *Some Could* Evaluate that the output from a gate depends on the pattern of transistors in its circuitry.
-- *Some Could* Explain how a D Latch works in a circuit with two possible stable states.
-
 * Simplifying NAND gates
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -111,6 +98,14 @@ By the end of the lesson...
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
+*Learning Objectives*- by the end of the lesson you...
+- *MUST* Be able to complete the truth table for a NOT gate.
+- *MUST* Be able to describe the function of a NOT gate as an inverter.
+- *SHOULD* Know that computer circuits are built from Transistors.
+- *SHOULD* Understand the term Boolean Logic (such as AND, OR and NOT).
+- *SHOULD* Be able to complete a truth table for a NOR,OR and XOR gate.
+- *COULD* Evaluate that the output from a gate depends on the pattern of transistors in its circuitry.
+- *COULD* Explain how a D Latch works in a circuit with two possible stable states.
 
 *Let's look at other gates*
 - NAND gates are really useful, but it would be annoying to have to draw the transistors every time.
