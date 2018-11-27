@@ -91,6 +91,16 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
+* Learning Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END: 
+By the end of the lesson...
+- *All Should* Be able to apply Boolean logic to predict the output from a series of gates (half adder).
+- *All Should* Be able to utilise a Full Adder to determine the binary addition of two numbers.
+- *Most Should* Be able to simulate the Full Adder circuitry within Python.
+- *Some Could* Be able to simulate and evaluate a binary subtractor within Python.
+
 * All the gates
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
