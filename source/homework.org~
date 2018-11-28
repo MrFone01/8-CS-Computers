@@ -109,7 +109,16 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 
-- coming soon
+- Boolean logic is heavily linked with Logic Gates and is also used in nearly all programming languages. It is a form of algebra where all values are either True or False.
+[[https://www.bbc.com/bitesize/guides/zqp9kqt/revision/1][Check this BBC Bitesize guide]] or some information on Boolean logic. The guide has a helpful table that shows the expression (how we would say it), the Boolean equivalent (you use these in Maths) and what we use if programming in Python.
+
+[[./img/boolean_table.png]]
+
+- Research more about how Boolean logic was invented and by whom, he is linked with Lincolnshire! Write 200 words on how, when and by whom Boolean logic was invented and also how it used in programming and computers to make them work. Include a table or picture that you think would help someone understand Boolean logic too, like the one above.
+
+- Upload a screenshot of your 200 words to the Homework 2 task for How Computers Work.
+
+
 ** Homework 3
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
