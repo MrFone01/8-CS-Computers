@@ -92,6 +92,16 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
+* Learning Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END: 
+By the end of the lesson...
+- *All Should* Be able to describe how a CPU carries out instructions via the LMC.  
+- *Most Should* Be able to write a program in assembly language to subtract two numbers.
+- *Some Could* Be able to create an algorithm to simulate the Fibonacci Sequence.
+- *Some Could* Be able to write a program in assembly language from their Fibonacci Sequence algorithm.
+
 * More than just data
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
