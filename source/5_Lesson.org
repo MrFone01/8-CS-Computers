@@ -92,6 +92,16 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
+
+* Learning Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END: 
+By the end of the lesson...
+- *All Should* Know that computers can store data in memory. 
+- *All Should* Be able to explain the concept of primary storage (RAM).
+- *Most Should* Should Be able to explain the concept of Secondary Storage in terms of Magnetic or Optical mediums.
+
 * Storing Bits
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
