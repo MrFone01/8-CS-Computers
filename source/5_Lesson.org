@@ -163,6 +163,7 @@ By the end of the lesson...
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Conduct some research and learn how Magnetic disks and Optical discs are able to store bits.
+- [[./doc/Week%205%20-%20Storing%20Bits%20and%20Bytes.docx][Right click]] to save the template to your homedirve. You will need to use this template for the Silver, Gold and Platinum badges for this lesson.
 - Make sure you include the capacity (maximum amount of data they can hold) of the disks or discs.
 - Present your findings in a suitable format for assessment.
 * Volatile storage
